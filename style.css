@@ -1,0 +1,26 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    
+}
+.block,.card{
+    margin: 0 auto;
+    width: 500px;
+    margin-top: 50px;
+}
+li{
+    list-style: none;
+}
+input[type='text']{
+    outline: none;
+    padding: 15px;
+   
+}
+input[type='button']{
+
+    padding: 15px;
+    border: none;
+    background-color: blue;
+    color: white;
+}
